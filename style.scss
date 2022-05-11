@@ -23,7 +23,6 @@ body {
 
 .container {
     max-width: 375px;
-    // border: red 1px solid;
 }
 
 .sr-only {
@@ -39,10 +38,8 @@ body {
 
 .card {
     background-color: white;
-    // border: greenyellow 1px solid;
     margin: 0 25px;
     max-width: 325px;
-    // height: 514px;
     border-radius: 10px;
     overflow: hidden;
     position: relative;
@@ -177,11 +174,9 @@ body {
 @media (min-width: 992px) {
     .container {
         max-width: 1110px;
-        // border: red 1px solid;
     }
 
     .card {
-        // border: yellowgreen 1px solid;
         max-width: 729px;
         height: 280px;
         display: flex;
