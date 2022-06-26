@@ -7,7 +7,7 @@
 # Built With
 
 - Technologies used: HTML, CSS, SASS.
-- Git, Github.
+- Tools used: GIT, GITHUB.
 
 ### The challenge
 
