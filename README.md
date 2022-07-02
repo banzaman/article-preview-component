@@ -20,4 +20,3 @@ Users should be able to:
 👤 **Mark Rubanza**
 
 - GitHub: [@banzaman](https://github.com/banzaman)
-- Twitter: [@banzamarq10](https://twitter.com/banzamarq10)
