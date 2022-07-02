@@ -1,6 +1,5 @@
 # article-preview-component
 
-![](https://img.shields.io/badge/Academic-blue)
 ![](https://img.shields.io/badge/HTML-red)
 
 
