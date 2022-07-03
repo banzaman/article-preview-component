@@ -19,3 +19,5 @@ Users should be able to:
 👤 **Mark Rubanza**
 
 - GitHub: [@banzaman](https://github.com/banzaman)
+- Twitter: [@Banzamarq10](https://twitter.com/banzamarq10)
+
